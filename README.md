@@ -40,7 +40,7 @@ The goal is not simply to collect impressive-looking entries. It is to build an 
 
 If a live deployment is available, open it in your browser:
 
-**Live demo:** [Add your deployed Portfolio HQ URL here]
+**Live demo:** https://isha-arjun.github.io/PortfolioHQ/
 
 ### Option 2: Run locally
 
